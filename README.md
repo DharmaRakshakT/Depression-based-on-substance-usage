@@ -1,1 +1,5 @@
-# Depression-based-on-substance-usage.-
+# Depression-based-on-substance-usage.
+
+Our objective is to predict the Depression Score based on various factors. The Depression Score serves as the dependent variable (Y) and is closely linked to substance use across different age groups. We've considered various types of substance usage, including Tobacco, Alcohol, Marijuana, heroin, Hallucinogens, Inhalants, Pain Relievers, stimulants, sedatives, special drugs, risk availability, substance dependency, and other variables. This analysis also takes into account the influence of demographic variables.
+
+By predicting the Depression Score, we aim to understand the severity of a person's depression. This information can guide us in suggesting measures to help individuals overcome depression. We also seek to identify the substances that most significantly contribute to depression levels. Additionally, we aim to gain insights into the percentage of effect each substance has on different levels of depression, enabling early cautioning signs for individuals at risk of depression.
